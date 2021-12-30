@@ -8,6 +8,4 @@
 # Live Demo
 View [Live Demo](https://pinterest-clone123.netlify.app/)
 
-# Preview
-<img src='./public/pinsave.png'><img>
 
